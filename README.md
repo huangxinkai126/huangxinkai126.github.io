@@ -1,4 +1,4 @@
-## Welcome to Huang Xinkai's Blog
+## Welcome to My Blog
 
 You can use the [editor on GitHub](https://github.com/huangxinkai126/huangxinkai126.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
